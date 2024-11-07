@@ -1,5 +1,5 @@
 ## Machine Maintenance App
 
-[Original App Development Document v0.1](<URL_to_the_original_document>)
+[Original App Development Document v0.1](<https://github.com/bugsmachine/ApplicationMaterials/blob/main/document-v0.1.pdf>)
 
-[Google Translate to English](<URL_to_the_translated_document>)
+[Google Translate to English](<https://github.com/bugsmachine/ApplicationMaterials/blob/main/document-v0.1-en.pdf>)
